@@ -23,7 +23,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachisahu&show_icons=true&locale=en&layout=compact" alt="sachisahu12" /></p>
 
 
-
+<!---
 <br>
 <br>
 
@@ -35,5 +35,5 @@
 <a href="https://github.com/sachisahu/github-readme-activity-graph"><img alt="Sachidanand Sahu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachisahu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-
+-->
 
